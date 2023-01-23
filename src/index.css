@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body{
+    background-image: linear-gradient(
+        to bottom right,
+        #181f21,
+        #181f21,
+        #870c0b,
+        #292323,
+        #282a3a,
+        #735f32
+      );
+    height: fit-content;
+    color: white;
+}
